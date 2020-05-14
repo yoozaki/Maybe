@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".configs", ".configs", "{28
 		Directory.Build.props = Directory.Build.props
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maybe.Tests", "..\tests\Maybe.Tests\Maybe.Tests.csproj", "{0FA20E1B-FF26-45D7-ABF9-F4DCD7A81AD6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maybe.Tests", "tests\Maybe.Tests\Maybe.Tests.csproj", "{0FA20E1B-FF26-45D7-ABF9-F4DCD7A81AD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
